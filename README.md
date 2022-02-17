@@ -6,8 +6,7 @@ I am a passionate full-stack web developer. I write maintainable and scalable co
 
 Skills: HTML / CSS / BOOTSTRAP / TAILWIND CSS / JAVASCRIPT
 
-- 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning React JS 
+- 🔭 I’m currently working on UCPro LLP as a Front End Developer 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 
