@@ -2,7 +2,7 @@
 
 I am a passionate frontend web developer. I write maintainable and scalable code with blazing fast performance.
 
-Skills: HTML / CSS / BOOTSTRAP / TAILWIND CSS / JAVASCRIPT
+Skills: HTML / CSS / BOOTSTRAP / TAILWIND CSS / JAVASCRIPT / REACT / MATERIAL UI
 
 - 🔭 I’m currently working on UCPro LLP as a Front End Developer 
 - 👯 I’m looking to collaborate on GitHub 
