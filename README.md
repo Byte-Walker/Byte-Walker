@@ -1,5 +1,4 @@
 ### Hi there 👋, It's Shahidul
-#### I am a frontend web developer
 
 I am a passionate frontend web developer. I write maintainable and scalable code with blazing fast performance.
 
@@ -14,12 +13,3 @@ Skills: HTML / CSS / BOOTSTRAP / TAILWIND CSS / JAVASCRIPT
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byte-Walker)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Byte-Walker&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Byte-Walker)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Byte-Walker)  
-
-![Profile views](https://gpvc.arturio.dev/Byte-Walker)  
