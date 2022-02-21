@@ -1,8 +1,8 @@
 ### Hi there 👋, It's Shahidul
-#### I am a full-stack web developer
+#### I am a frontend web developer
 ![I am a full-stack web developer](https://scontent.fdac13-1.fna.fbcdn.net/v/t1.6435-9/p720x720/107013375_2686937958256698_2667236701989809915_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=e3f864&_nc_ohc=TujsWW6ihnsAX-r5u_4&_nc_ht=scontent.fdac13-1.fna&oh=a8e7bdbbad4968d343cd78d18a3edc05&oe=614CE6E5)
 
-I am a passionate full-stack web developer. I write maintainable and scalable code with blazing fast performance.
+I am a passionate frontend web developer. I write maintainable and scalable code with blazing fast performance.
 
 Skills: HTML / CSS / BOOTSTRAP / TAILWIND CSS / JAVASCRIPT
 
